@@ -12,3 +12,5 @@
 * [Regular_Expression_Matching](./note/0010.Regular_Expression_Matching.md)
 * [Container_With_Most_Water](./note/0011.Container_With_Most_Water.md)
 * [Integer_to_Roman](./note/0012.Integer_to_Roman.md)
+* [Roman_to_Integer](./note/0013.Roman_to_Integer.md)
+* [Longest_Common_Prefix](./note/0014.Longest_Common_Prefix.md)
