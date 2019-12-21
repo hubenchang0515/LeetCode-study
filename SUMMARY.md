@@ -14,3 +14,5 @@
 * [Integer_to_Roman](./note/0012.Integer_to_Roman.md)
 * [Roman_to_Integer](./note/0013.Roman_to_Integer.md)
 * [Longest_Common_Prefix](./note/0014.Longest_Common_Prefix.md)
+* [3_Sum](./note/0015.3_Sum.md)
+* [3_Sum_Closest](./note/0016.3_Sum_Closest.md)
