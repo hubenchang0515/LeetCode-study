@@ -19,3 +19,6 @@
 * [Letter Combinations of a Phone Number](./note/0017.Letter_Combinations_of_a_Phone_Number.md)
 * [4 Sum](./note/0018.4_Sum.md)
 * [Remove Nth Node From End of List](./note/0019.Remove_Nth_Node_From_End_of-List.md)
+* [Valid Parentheses](./note/0020.Valid_Parentheses.md)
+* [Merge Two Sorted Lists](./note/0021.Merge_Two_Sorted_Lists.md)
+* [Generate Parentheses](./note/0022.Generate_Parentheses.md)
