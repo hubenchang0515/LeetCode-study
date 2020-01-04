@@ -25,3 +25,4 @@
 * [Merge k Sorted Lists](./note/0023.Merge_k_Sorted_Lists.md)
 * [Swap Nodes in Pairs](./note/0024.Swap_Nodes_in_Pairs.md)
 * [Reverse Nodes in k-Group](./note/0025.Reverse_Nodes_in_k-Group.md)
+* [Remove Duplicates from Sorted Array](./note/0026.Remove_Duplicates_from_Sorted_Array.md)
