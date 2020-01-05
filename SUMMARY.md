@@ -27,3 +27,4 @@
 * [Reverse Nodes in k-Group](./note/0025.Reverse_Nodes_in_k-Group.md)
 * [Remove Duplicates from Sorted Array](./note/0026.Remove_Duplicates_from_Sorted_Array.md)
 * [Remove Element](./note/0027.Remove_Element.md)
+* [Implement strStr](./note/0028.Implement_strStr.md)
